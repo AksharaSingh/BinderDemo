@@ -1,0 +1,7 @@
+dependencies:
+  -pandas
+  -numpy
+  -sodapy
+  -datetime
+  -matplotlib
+  -seaborn
